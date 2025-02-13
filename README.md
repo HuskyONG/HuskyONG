@@ -6,7 +6,7 @@
 - 🔭 I worked on: Full stack web apps, web scrapers, machine learning, and discord bots
 
 ## What I'm doing now
-- 🌱 I’m currently learning: Data Structures, Assembly, Matrix Alegebra, Machine Learning
+- 🌱 I’m currently learning: Data Structures, Assembly, Differential Equations, Machine Learning
 
 ## Misc
 - 💬 Ask me about: CS stuff and how to make my hair less chopped
