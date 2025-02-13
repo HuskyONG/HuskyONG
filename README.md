@@ -1,8 +1,10 @@
-## Jay Shree Krishna 
+## 🙏 Jay Shree Krishna 🙏
+
 
 ## CS Major, Math minor
 
 ## Pior to Life:
+- 🥷🏾 Prior to being born, I worked as a Head Sensei at Code Ninjas
 - 🔭 I worked on: Full stack web apps, web scrapers, machine learning, and discord bots
 
 ## What I'm doing now
