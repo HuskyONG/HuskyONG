@@ -1,7 +1,7 @@
 ## 🙏 Jay Shree Krishna 🙏
 
 
-## CS Major, Math minor
+## CS Major, Math minor, Certified Optometrist
 
 ## Pior to Life:
 - 🥷🏾 Prior to being born, I worked as a Head Sensei at Code Ninjas
@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning: Data Structures, Assembly, Differential Equations, Machine Learning
 
 ## Misc
-- 💬 Ask me about: CS stuff and how to make my hair less chopped
-- 📫 How to reach me: Lucky Ds Gaming Cafe
+- 💬 Ask me about: CS stuff and how to be goated at chess
+- 📫 How to reach me: why would you want to do that?
 - 😄 Pronouns: The/Goat
 - ⚡ Fun fact: Screw the fun fact heres my top 5 Foods:
 
