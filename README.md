@@ -1,7 +1,7 @@
 ## 🙏 Jay Shree Krishna 🙏
 
 
-## CS Major, Math minor, Certified Optometrist
+## CS Major, Math Minor, Certified Optometrist
 
 ## Pior to Life:
 - 🥷🏾 Prior to being born, I worked as a Head Sensei at Code Ninjas
