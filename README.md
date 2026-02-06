@@ -22,4 +22,4 @@
   4. Chicken Vindaloo  
   5. Palak Panner
 
-- 6' 9" (Like my goat LeBron Raymone James)
+- 6' 5" (Like my goat Joshua Patrick Allen)
