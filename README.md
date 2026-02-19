@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙏 Jay Shree Krishna:
 Computer Science student at the University of Illinois Chicago, concentrating in Software Engineering with a minor in Mathematics (B.S. expected May 2027). <br>Planning to continue into a Master's in CS the following year.<br>Currently conducting research on Quantum Algorithms with a UIC professor.<br>Working toward a career in software engineering with a long-term focus on Quantum Computing and systems design.
 
 
